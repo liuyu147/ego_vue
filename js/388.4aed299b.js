@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_test"]=self["webpackChunkvue_test"]||[]).push([[388],{7388:function(u,e,t){t.r(e),t.d(e,{default:function(){return i}});var n=function(){var u=this,e=u._self._c;return e("div",[u._v(" 品牌 ")])},l=[],s={},r=s,c=t(1001),f=(0,c.Z)(r,n,l,!1,null,null,null),i=f.exports}}]);
+//# sourceMappingURL=388.4aed299b.js.map
